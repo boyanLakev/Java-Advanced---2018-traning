@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dc55097-905e-451e-84ba-175bc1741721" name="Default Changelist" comment="" />
+    <list default="true" id="1dc55097-905e-451e-84ba-175bc1741721" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LegendaryFarming.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1PrQOh32SUpMYGyd0B2Vsnwioko" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
   </component>
   <component name="RunDashboard">
@@ -31,9 +39,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LogsAggregator">
-    <configuration name="HandsOfCards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HandsOfCards" />
+  <component name="RunManager" selected="Application.LegendaryFarming">
+    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LegendaryFarming" />
       <module name="Sets And Maps - Exercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.LogsAggregator" />
         <item itemvalue="Application.Population" />
         <item itemvalue="Application.PopulationCounter" />
         <item itemvalue="Application.UserLogs" />
-        <item itemvalue="Application.HandsOfCards" />
       </list>
     </recent_temporary>
   </component>
@@ -89,6 +97,19 @@
       <updated>1566629704452</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
